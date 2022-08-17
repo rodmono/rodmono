@@ -1,0 +1,19 @@
+site_name: R. LugoFrias
+site_url: https://lugofrias.info
+site_author: rodmono
+
+nav:
+  - Home: index.md
+  - About: resume.md
+  - Python Modules:
+      - Market Data: Sandbox.ipynb
+
+theme:
+  name: material
+  locale: en
+  include_sidebar: false
+
+plugins:
+  - mkdocs-jupyter
+  - literate-nav:
+      nav_file: SUMMARY.md
