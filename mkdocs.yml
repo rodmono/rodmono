@@ -4,7 +4,7 @@ site_author: rodmono
 
 nav:
   - Home: index.md
-  - About: resume.md
+ # - Resume: resume.md
   - Python Modules:
       - Market Data: Sandbox.ipynb
 
