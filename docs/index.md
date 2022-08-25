@@ -9,7 +9,7 @@
           <img src="/img/oso.jpg" alt="rodmono" style="height: 220px; width:220px; float:center;"/>
      </div>
      <div style="flex:1;padding-left:10px;text-align:justify;font-size:14px;">
-     		I am currently the Head Quant at <a href="https://ratio.finance/">Ratio Finance</a>, a collateralized debt position protocol in the Solana Blockchain. I was previously working for the Emerging Markets Desk as XVA Trader and Front Office Quant at <a href="https://www.gbm.scotiabank.com/en.html">Scotiabank Global Banking and Markets</a>. I started my carrer in finance at <a href="https://gbm.com/">Grupo Bursatil Mexicano</a> where I learned, created and implemented quantitative trading strategies for the futures and equities markets
+     		I am currently the Head Quant at <a href="https://ratio.finance/">Ratio Finance</a>, a collateralized debt position protocol in the Solana Blockchain. I was previously working for the Emerging Markets Desk as XVA Trader and Front Office Quant at <a href="https://www.gbm.scotiabank.com/en.html">Scotiabank Global Banking and Markets</a>. I started my career in finance at <a href="https://gbm.com/">Grupo Bursatil Mexicano</a> where I learned, created and implemented quantitative trading strategies for the futures and equities markets
 
      		<br>
      		<br>
