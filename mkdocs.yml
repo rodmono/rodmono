@@ -9,7 +9,7 @@ nav:
       - Market Data: Sandbox.ipynb
 
 theme:
-  name: material
+  name: gitbook
   locale: en
   include_sidebar: false
 
