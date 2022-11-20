@@ -6,10 +6,7 @@
  <center><img src="/img/oso.jpg" alt="rodmono" style="height: 200px; width:200px; float:center;"/> </center>
 
 <div style="text-align:justify;font-size:14px;">
-		I work at <a href="https://blockanalitica.com/">Block Analitica</a> as a Researcher and Risk Analyst. The main focus of my research is Counterparty Credit Risk and Market Risk.
-		<br>
-		<br>
-		Previously I was the Head Quant at <a href="https://ratio.finance/">Ratio Finance</a>, a collateralized debt position protocol in the Solana Blockchain. I also worked at at <a href="https://www.gbm.scotiabank.com/en.html">Scotiabank Global Banking and Markets</a>for the Emerging Markets Desk as XVA Trader and Front Office Quant. I started my career in Finance at <a href="https://gbm.com/">Grupo Bursatil Mexicano</a> where I learned, created and implemented quantitative trading strategies for futures and equities.
+		I work at <a href="https://blockanalitica.com/">Block Analitica</a> as a Researcher and Risk Analyst. The main focus of my research is Counterparty Credit Risk and Market Risk. Previously I was the Head Quant at <a href="https://ratio.finance/">Ratio Finance</a>, a collateralized debt position protocol in the Solana Blockchain. I also worked at at <a href="https://www.gbm.scotiabank.com/en.html">Scotiabank Global Banking and Markets</a> for the Emerging Markets Desk as XVA Trader and Front Office Quant. I started my career in Finance at <a href="https://gbm.com/">Grupo Bursatil Mexicano</a> where I learned, created and implemented quantitative trading strategies for futures and equities.
 		<br>
 		<br>
 		I got involved with cryptoassets in 2017 and I decided to go all-in in 2022. I am mainly interested in developing data-driven quantitive solutions for investor portfolio creation and financial risk management. I enjoy bridging the gap between theoretical research and real-world financial applications attempting to add some value to the industry.
