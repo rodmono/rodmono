@@ -1,8 +1,6 @@
 
 # R. LugoFrias
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40rodmono)](https://twitter.com/rodmono)
-
 ### About
 
  <center><img src="/img/oso.jpg" alt="rodmono" style="height: 200px; width:200px; float:center;"/> </center>
@@ -12,6 +10,11 @@
 		<br>
 		<br>
 		I got involved with cryptoassets in 2017 and I decided to go all-in at the end of 2021. I am mainly interested in developing data-driven quantitive solutions for investor portfolio creation and financial risk management. I enjoy bridging the gap between theoretical research and real-world financial applications attempting to add some value to the industry.
+
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40rodmono)](https://twitter.com/rodmono)
+
 </div>
 
 ---
