@@ -1,6 +1,8 @@
 
 # R. LugoFrias
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/rodmono)
+
 ### About
 
  <center><img src="/img/oso.jpg" alt="rodmono" style="height: 200px; width:200px; float:center;"/> </center>
