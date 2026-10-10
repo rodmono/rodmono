@@ -1,4 +1,4 @@
-# R. Lugo Frías
+# R. LugoFrias
 
 Welcome to my personal project space.
 
