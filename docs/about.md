@@ -1,6 +1,6 @@
 # About
 
-I'm Rodrigo Lugo Frías, a physicist with a PhD in theoretical
+I'm R. LugoFrias, a physicist with a PhD in theoretical
 physics and professional experience in quantitative finance.
 
 My interests include mathematics, numerical methods,
