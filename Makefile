@@ -1,16 +1,22 @@
 SHELL := /bin/bash
-GH_PAGE := rodmono.github.io
 
-.PHONY: deploy
-deploy:
-	cd $(GH_PAGE) && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch main
+VENV := .venv
+MKDOCS := $(VENV)/bin/mkdocs
 
-.PHONY: update-build-version
-update-build-version:
-	git submodule update --remote --merge
-	git add $(GH_PAGE)
-	git commit -m "ci: update build version"
+.PHONY: setup serve build clean
 
-.PHONY: publish
-publish: deploy update-build-version
-	git push
+setup:
+	@if [ ! -f "$(MKDOCS)" ]; then \
+		echo "Setting up Python virtual environment..."; \
+		python3 -m venv $(VENV); \
+		$(VENV)/bin/pip install -r requirements.txt; \
+	fi
+
+serve: setup
+	$(MKDOCS) serve
+
+build: setup
+	$(MKDOCS) build
+
+clean:
+	rm -rf site/
