@@ -30,3 +30,10 @@ Throughout my career, the prevailing theme has been the design, implementation, 
 Feel free to reach out at: 
 	
 	rodrigo@lugofrias.info
+
+
+## My Projects
+
+This is where I document my experiments in
+scientific computing, quantitative finance,
+and other personal projects.
