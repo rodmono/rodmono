@@ -1,19 +1,66 @@
-site_name: R. LugoFrias
+site_name: R. Lugo Frías
 site_url: https://lugofrias.info
-site_author: rodmono
+site_author: Rodrigo Lugo Frías
+site_description: Scientific computing, quantitative finance and personal projects.
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
 
 nav:
   - Home: index.md
- # - Resume: resume.md
-  - Python Modules:
-      - Market Data: Sandbox.ipynb
 
-theme:
-  name: gitbook
-  locale: en
-  include_sidebar: false
+  - Projects:
+      - Overview: projects/index.md
+      - Quantitative Finance: projects/quantitative-finance.md
+      - Scientific Computing: projects/scientific-computing.md
+      - Endurance Analytics: projects/endurance-analytics.md
+
+  - Notes:
+      - Overview: notes/index.md
+
+  - About: about.md
 
 plugins:
-  - mkdocs-jupyter
-  - literate-nav:
-      nav_file: SUMMARY.md
+  - search
+  - mkdocs-jupyter:
+      execute: false
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rodmono

@@ -1,39 +1,24 @@
+# R. Lugo Frías
 
-# R. LugoFrias
+Welcome to my personal project space.
 
-### About
+I'm a physicist working in quantitative finance, with interests
+in scientific computing, mathematics, software development,
+and endurance sports.
 
- <center><img src="/img/oso.jpg" alt="rodmono" style="height: 200px; width:200px; float:center;"/> </center>
+This website serves as a companion to my GitHub repositories,
+where I document experiments, implementations, and ongoing projects.
 
-<div style="text-align:justify;font-size:14px;">
-		I am a Senior Quantitative Analyst with over 7 years of experience in the financial industry. I have worked in Hedge Funds, Banks, and a couple of DeFi companies, covering a wide range of topics such as risk management, derivative pricing and valuation, as well as FI/FX trading.
-		<br>
-		<br>
-Throughout my career, the prevailing theme has been the design, implementation, and documentation of financial solutions, all of which have capitalized on my programming skills and technical expertise. I have been involved in projects of various sizes and complexities, where I had the opportunity to collaborate and support teams from diverse backgrounds and business areas.
+## Explore
 
-</div>
+### Projects
 
+Software development, numerical experiments, and quantitative research.
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40rodmono)](https://twitter.com/rodmono)
+[Explore projects](projects/index.md)
 
----
+### Notes
 
-### Education
+Technical notes on mathematics, physics, and programming.
 
-* PhD - Theoretical Physics at [TU Berlin](https://www.tu.berlin/agklapp/) (2016)
-* BSc and MSc - Theoretical Physics at [UNAM](http://umdi-juriquilla.fciencias.unam.mx/somos/fichas/profs/DrIvanSantamaria.html) (2013)
-
----
-
-### Contact
-
-Feel free to reach out at: 
-	
-	rodrigo@lugofrias.info
-
-
-## My Projects
-
-This is where I document my experiments in
-scientific computing, quantitative finance,
-and other personal projects.
+[Read notes](notes/index.md)
